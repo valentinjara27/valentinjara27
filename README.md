@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔸 I am a Back-end oriented Full Stack Developer with the ability to make web projects always keeping in mind that they are scalable and modularizable so we can build as a team.
+
+🔸The company that chooses me will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.
+
+My work history:
+🔸 My experience has been mainly in the academic field, for 3 years I worked as a systems engineering student where I learned strong foundations in algorithmics and data structure management.
+🔸 I am currently attending the henry bootcamp, where I could exercise my technical skills, but above all my social skills as a developer.
+
+🔸 Linkedin: https://www.linkedin.com/in/valentin-jara-fullstackdeveloper
+
 <!--
 **valentinjara27/valentinjara27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
